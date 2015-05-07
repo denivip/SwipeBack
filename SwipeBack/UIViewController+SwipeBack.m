@@ -23,7 +23,7 @@
 //
 
 
-#import <JRSwizzle/JRSwizzle.h>
+#import "JRSwizzle.h"
 
 #import "UINavigationController+SwipeBack.h"
 #import "UIViewController+SwipeBack.h"
